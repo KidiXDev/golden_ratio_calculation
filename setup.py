@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 from pathlib import Path
 
-VERSION = '0.0.1'
+VERSION = '0.0.2'
 DESCRIPTION = 'Simple library to calculate golden ratio'
 
 this_directory = Path(__file__).parent
