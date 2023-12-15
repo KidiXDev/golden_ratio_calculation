@@ -1,4 +1,4 @@
-# pymal_basic
+# Golden Ratio Calculation
 Python simple library to calculate Golden Ratio (phi)
 
 ## Installation
