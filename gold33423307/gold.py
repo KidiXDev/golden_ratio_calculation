@@ -1,7 +1,7 @@
 import math
 
 class GoldenRatio:
-    def golden_ratio():
+    def calculatePhi():
         sqrt_5 = math.sqrt(5)
         golden_ratio_value = (1 + sqrt_5) / 2
         
